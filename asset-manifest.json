@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Muhammad-Achir/mayar-movie-web-app/static/css/main.555fff5c.css",
+    "main.js": "/Muhammad-Achir/mayar-movie-web-app/static/js/main.3a024f2a.js",
+    "static/js/787.ace9a94c.chunk.js": "/Muhammad-Achir/mayar-movie-web-app/static/js/787.ace9a94c.chunk.js",
+    "index.html": "/Muhammad-Achir/mayar-movie-web-app/index.html",
+    "main.555fff5c.css.map": "/Muhammad-Achir/mayar-movie-web-app/static/css/main.555fff5c.css.map",
+    "main.3a024f2a.js.map": "/Muhammad-Achir/mayar-movie-web-app/static/js/main.3a024f2a.js.map",
+    "787.ace9a94c.chunk.js.map": "/Muhammad-Achir/mayar-movie-web-app/static/js/787.ace9a94c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555fff5c.css",
+    "static/js/main.3a024f2a.js"
+  ]
+}
